@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+
+#result{
+    width: 400px;
+    height: 80px;
+    border: black 1px solid;
+}
+
+.buttonWrap {
+    display: flex;
+}
+
+.buttonWrap button{
+    margin: 0;
+    width: 100px;
+    height: 80px;
+}
